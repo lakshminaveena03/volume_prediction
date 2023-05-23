@@ -1,0 +1,4 @@
+2023-05-23 10:52:17,316 - INFO - Training Metrics:
+2023-05-23 10:52:26,728 - INFO - Mean Squared Error (MSE): 85385208598963.25
+2023-05-23 10:52:26,728 - INFO - Evaluation Metrics:
+2023-05-23 10:52:29,132 - INFO - Mean Squared Error (MSE): 70574374264404.16
